@@ -1,3 +1,4 @@
+ HEAD
 # ⚡ EV Charge Pro — Complete Setup Guide
 
 ## Prerequisites
@@ -165,3 +166,6 @@ evcharge/
 
 **Frontend shows blank page**
 → Make sure you ran `npm install` in the `frontend` folder
+
+# evcharging
+
