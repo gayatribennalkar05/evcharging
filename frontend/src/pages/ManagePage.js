@@ -41,7 +41,7 @@ export default function ManagePage({ onBack, initialToken = '' }) {
     if (initialToken && initialToken.length > 10) {
       doSearch(initialToken);
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+
   }, [initialToken]);
 
   const doSearch = async (tok) => {
